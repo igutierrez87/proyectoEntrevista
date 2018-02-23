@@ -29,12 +29,4 @@ public class TipoVisita {
         this.observacion = observacion;
     }
 
-    public String toString() {
-        String r = "Tipo de Visita: " + getNombre();
-        if (!this.observacion.isEmpty()) {
-               r = r + getObservacion();
-        }
-        return r;
-    }
-
 }
