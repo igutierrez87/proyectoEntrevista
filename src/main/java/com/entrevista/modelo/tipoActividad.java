@@ -1,9 +1,11 @@
 package com.entrevista.modelo;
 
 import javax.persistence.Entity;
+import javax.persistence.Id;
 
 @Entity
 public class tipoActividad {
+    @Id
     private int id;
     private String nombre;
     private String observacion;

@@ -1,8 +1,8 @@
-com\entrevista\modelo\Visita.class
-proyecto\App.class
-com\entrevista\config\AppConfigAdapter.class
-com\entrevista\modelo\tipoActividad.class
-com\entrevista\Controller\HomeController.class
-com\entrevista\modelo\TipoDistribucion.class
-com\entrevista\modelo\TipoVisita.class
-com\entrevista\config\AppInitializer.class
+com/entrevista/config/AppConfigAdapter.class
+com/entrevista/Controller/HomeController.class
+com/entrevista/config/AppInitializer.class
+com/entrevista/modelo/Visita.class
+com/entrevista/modelo/TipoDistribucion.class
+com/entrevista/modelo/TipoVisita.class
+com/entrevista/modelo/tipoActividad.class
+proyecto/App.class
